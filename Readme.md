@@ -1,13 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
+# This example is obsolete
 
-<!-- default file list end -->
-# Map - How to use Google Maps Marker Clusterer API to create per-zoom-level clusters
-
-
-<p>This example illustrates an approach described in the <a href="https://www.devexpress.com/Support/Center/p/KA18782">How to take advantage of map provider API features that were not implemented in the dxMap widget?</a> Knowledge Base article and the Google <a href="https://developers.google.com/maps/articles/toomanymarkers?hl=en#markerclusterer">Too Many Markers!</a> article.</p>
-<p><strong>See also:<br /></strong><a href="https://github.com/googlemaps/js-marker-clusterer">Marker Clusterer – A Google Maps JavaScript API utility library</a><br /><a href="http://www.devexpress.com/Support/Center/Example/Details/E4734"><u>dxMap - How to add the current location marker</u></a></p>
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>
